@@ -5,6 +5,6 @@ PSD Grid for Less Framework 4
 
 ![Layouts](http://f.cl.ly/items/2R3H0t0D1V3l2O3t1z3n/Screen%20shot%202012-01-27%20at%2012.43.24%20PM.png "Layouts")
 
-[Learn More](http://lessframework.com/)
+[Learn more about the Less Framework](http://lessframework.com/)
 
 Created by [KarateJon](http://github.com/karatejon "KarateJon")
